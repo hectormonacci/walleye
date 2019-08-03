@@ -30,6 +30,10 @@ script and its variants, and could be expanded to support other scripts.
   W: chuckmasterson.com
   D: Founder of Looseleaf Fonts and creator of this font
 
+  N: Héctor M. Monacci
+  E: hector.monacci@gmail.com
+  W:
+  D: Added one character from the «Claudian Letters», namely, TURNED CAPITAL F (Ⅎ; U+2132) to Walleye.otf
 
 * Looseleaf Fonts is Chuck Masterson’s (dormant) font foundry. Information available at
   <http://looseleaf.chuckmasterson.com/about/>.
